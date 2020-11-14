@@ -15,7 +15,7 @@
         "cli-color": "*",
         "connect": "2.14.3",
         "connect-redis": "1.5.0",
-        "cookie": "0.1.1",
+        "cookie": "0.4.1",
         "crypto": "0.0.3",
         "excel-export": "^0.3.11",
         "express": "3.5.1",
